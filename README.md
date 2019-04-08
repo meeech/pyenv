@@ -296,7 +296,7 @@ package manager for macOS.
     $ brew install pyenv
 
 
-To upgrade pyenv in the future, use `upgrade` instead of `install`.
+To upgrade pyenv in the future, use `upgrade` instead of `install`. However, note you will lose any environments you have already setup.
 
 Then follow the rest of the post-installation steps under [Basic GitHub Checkout](https://github.com/pyenv/pyenv#basic-github-checkout) above, starting with #3 ("Add `pyenv init` to your shell to enable shims and autocompletion").
 
